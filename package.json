@@ -3,6 +3,9 @@
   "displayName": "SageX3 Documentation Support",
   "description": "Documentation Provider for SageX3",
   "publisher": "akmyradovme",
+  "repository": {
+	"url": "https://github.com/azatakmyradov/sagex3-documentation-support"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.81.0"
