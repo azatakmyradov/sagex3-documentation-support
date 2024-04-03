@@ -14,7 +14,8 @@
     "Other"
   ],
   "activationEvents": [
-    "onLanguage:x3"
+    "onLanguage:x3",
+    "workspaceContains:**/sagex3.config.json"
   ],
   "main": "./dist/extension.js",
   "contributes": {
